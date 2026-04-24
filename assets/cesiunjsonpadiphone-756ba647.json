@@ -1,0 +1,325 @@
+{
+  "mapdata": [],
+  "loadingdata": {
+    "txt": "HOMEVISTA 不動産の新未来を創造する",
+    "disclaimerSrc": [
+      "https://oss.homevista.jp/custom/model/X2cQa8Lu/Notes-GIS-ja.html",
+      "https://oss.homevista.jp/custom/model/X2cQa8Lu/Notes-GIS-ko.html",
+      "https://oss.homevista.jp/custom/model/X2cQa8Lu/Notes-GIS-en.html",
+      "https://oss.homevista.jp/custom/model/X2cQa8Lu/Notes-GIS-zhcn.html",
+      "https://oss.homevista.jp/custom/model/X2cQa8Lu/Notes-GIS-zhtw.html"
+    ]
+  },
+
+  "sunshadowdata": {
+    "switch1": "冬至",
+    "switch2": "夏至",
+    "switch3": "春分秋分"
+  },
+  "viewdata": {
+    "list": []
+  },
+  "buildingdata": {
+    "huxingtu": [],
+    "ModelHouse": [],
+    "view": {
+      "position": {
+        "x": 23.228550626830234,
+        "y": 63.69387655293086,
+        "z": -44.78494278318571
+      },
+      "target": {
+        "x": -7.348614224524219,
+        "y": 39.30292668811953,
+        "z": 5.205173188480547
+      }
+    }
+  },
+  "Selectlist": [
+    {
+      "name": "初始视角",
+      "internation": "text1",
+      "visible": true
+    },
+    {
+      "name": "户型",
+      "internation": "text4",
+      "visible": true
+    },
+    {
+      "name": "视角",
+      "internation": "text5",
+      "visible": true
+    },
+    {
+      "name": "周边",
+      "internation": "text2",
+      "visible": true
+    },
+    {
+      "name": "设置",
+      "internation": "text3",
+      "visible": true
+    },
+    {
+      "name": "全屏",
+      "internation": "text6",
+      "visible": true
+    },
+    {
+      "name": "取消全屏",
+      "internation": "text7",
+      "visible": false
+    }
+  ],
+  "isgis": true,
+  "croping": {
+    "z1": -0.07,
+    "z2": 0.06,
+    "x1": -0.07,
+    "x2": 0.06,
+    "distance1": -30,
+    "distance2": -45,
+    "distance3": -50,
+    "distance4": -24,
+    "ModelPositionX": 47,
+    "ModelPositionY": 56,
+    "ModelPositionZ": 84,
+    "ModelRotationX": 0,
+    "ModelRotationY": -2.22,
+    "ModelRotationZ": 0,
+    "exposure": 1,
+    "envMapIntensity": 1
+  },
+  "modelbox": {
+    "sky2": "https://oss.homevista.jp/custom/model/sky/1k-sky-2.ktx2",
+    "sky1": "https://oss.homevista.jp/custom/model/sky/1k-sky.ktx2",
+    "mapheight": 100,
+    "mapline": 60,
+    "model": "https://oss.homevista.jp/custom/model/X2cQa8Lu/k1/model.gltf"
+  },
+  "initmap": {
+    "lat": "26.454002898335006",
+    "lon": "127.81322248208879",
+    "y": 150,
+    "initPoint": true,
+    "apiKey": "AIzaSyBzUZA3IB20fOLR7uyCZNCv1zGgxV2-jRU",
+    "position": {
+      "x": -228,
+      "y": 241,
+      "z": -267
+    },
+    "target": {
+      "x": -12,
+      "y": 70,
+      "z": 29
+    },
+    "errorTarget": 50,
+    "modelLight": "Light",
+    "modelTrees": "Trees",
+    "modelPrimary": "Primary",
+    "modelcastShadow": false,
+    "modelreceiveShadow": false,
+    "modelLightintensity": 5,
+    "modelGIS": "-GIS",
+    "modelbox": "Box",
+    "modelHome": "House",
+    "toneMappingExposure": 0.8,
+    "controls": {
+      "minDistance": 0,
+      "maxDistance": 900,
+      "minPolarAngle": 0,
+      "maxPolarAngle": 1.55,
+      "enableDamping": false,
+      "enablePan": false,
+      "minHeight": 50,
+      "maxHeight": 900,
+      "distance": 70,
+      "maxMoveSpeed": 5
+    },
+    "clipping": [
+      [34.664614781271425, 134.95686068407258],
+      [34.66340369750417, 134.95878491822265],
+      [34.66402484480795, 134.95934229483603],
+      [34.66521468161202, 134.957421160634],
+      [34.664614781271425, 134.95686068407258]
+    ],
+    "distance1": 120,
+    "distance2": 150,
+    "distance3": 220,
+    "distance4": 250,
+    "columndistance": 500,
+    "columnheight": 200,
+    "columncolor": "#00ffff",
+    "columnvisibility": false,
+    "Linecolor": "#36D3D3",
+    "linewidth": 5,
+    "EdgeLinecolor": "#ffffff",
+    "Edgelinewidth": 2
+  },
+  "path": [
+    [-49,58,72],
+    [24,58,-24],
+    [-2,58,-44],
+    [-73,58,53],
+    [-49,58,72]
+  ],
+  "NewPlanColor": [
+    {
+      "value": 0,
+      "type": "A",
+      "color": "#28A3A0",
+      "bgColor": "#DBF1F1"
+    },
+    {
+      "value": 1,
+      "type": "B",
+      "color": "#EB9849",
+      "bgColor": "#FFE8CC"
+    },
+    {
+      "value": 2,
+      "type": "C",
+      "color": "#3B6FC8",
+      "bgColor": "#E4F6D1"
+    },
+    {
+      "value": 3,
+      "type": "D",
+      "color": "#9F59C8",
+      "bgColor": "#FAE6F0"
+    },
+    {
+      "value": 4,
+      "type": "E",
+      "color": "#45AAD9",
+      "bgColor": "#DEECFF"
+    },
+    {
+      "value": 5,
+      "type": "F",
+      "color": "#E2B333",
+      "bgColor": "#FFF5D3"
+    },
+    {
+      "value": 6,
+      "type": "G",
+      "color": "#8075D3",
+      "bgColor": "#DDDBF6"
+    },
+    {
+      "value": 7,
+      "type": "H",
+      "color": "#D95656",
+      "bgColor": "#F4E5E0"
+    },
+    {
+      "value": 8,
+      "type": "I",
+      "color": "#93B655",
+      "bgColor": "#DDF5FC"
+    },
+    {
+      "value": 9,
+      "type": "J",
+      "color": "#EB92A4",
+      "bgColor": "#FFEDF1"
+    },
+    {
+      "value": 10,
+      "type": "K",
+      "color": "#55D0D9",
+      "bgColor": "#D3DEFF"
+    },
+    {
+      "value": 11,
+      "type": "L",
+      "color": "#C1A751",
+      "bgColor": "#F4E5BC"
+    },
+    {
+      "value": 12,
+      "type": "M",
+      "color": "#378DD3",
+      "bgColor": "#E9D6FA"
+    },
+    {
+      "value": 13,
+      "type": "N",
+      "color": "#D174C8",
+      "bgColor": "#F3CECE"
+    },
+    {
+      "value": 14,
+      "type": "O",
+      "color": "#11B380",
+      "bgColor": "#E1F6E2"
+    },
+    {
+      "value": 15,
+      "type": "P",
+      "color": "#B07E5F",
+      "bgColor": "#DFD3C8"
+    },
+    {
+      "value": 16,
+      "type": "Q",
+      "color": "#28A3A0",
+      "bgColor": "#DBF1F1"
+    },
+    {
+      "value": 17,
+      "type": "R",
+      "color": "#EB9849",
+      "bgColor": "#FFE8CC"
+    },
+    {
+      "value": 18,
+      "type": "S",
+      "color": "#3B6FC8",
+      "bgColor": "#E4F6D1"
+    },
+    {
+      "value": 19,
+      "type": "T",
+      "color": "#9F59C8",
+      "bgColor": "#FAE6F0"
+    },
+    {
+      "value": 20,
+      "type": "U",
+      "color": "#45AAD9",
+      "bgColor": "#DEECFF"
+    },
+    {
+      "value": 21,
+      "type": "V",
+      "color": "#E2B333",
+      "bgColor": "#FFF5D3"
+    },
+    {
+      "value": 22,
+      "type": "W",
+      "color": "#8075D3",
+      "bgColor": "#DDDBF6"
+    },
+    {
+      "value": 23,
+      "type": "X",
+      "color": "#D95656",
+      "bgColor": "#F4E5E0"
+    },
+    {
+      "value": 24,
+      "type": "Y",
+      "color": "#93B655",
+      "bgColor": "#DDF5FC"
+    },
+    {
+      "value": 25,
+      "type": "Z",
+      "color": "#EB92A4",
+      "bgColor": "#FFEDF1"
+    }
+  ]
+}
